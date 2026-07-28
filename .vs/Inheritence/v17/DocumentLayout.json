@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Console\\Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5043F605-495A-4317-BDD6-06DBEF3035B9}|Inheritence\\Inheritence.csproj|d:\\console\\inheritence\\inheritence\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5043F605-495A-4317-BDD6-06DBEF3035B9}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5043F605-495A-4317-BDD6-06DBEF3035B9}|Inheritence\\Inheritence.csproj|d:\\console\\inheritence\\inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5043F605-495A-4317-BDD6-06DBEF3035B9}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Console\\Inheritence\\Inheritence\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Person.cs",
+              "ToolTip": "D:\\Console\\Inheritence\\Inheritence\\Person.cs",
+              "RelativeToolTip": "Inheritence\\Person.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T20:32:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Console\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Program.cs",
+              "ToolTip": "D:\\Console\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeToolTip": "Inheritence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T20:30:25.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
