@@ -1,0 +1,7 @@
+D:\Console\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Console\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Console\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Console\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\Console\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Console\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Console\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
