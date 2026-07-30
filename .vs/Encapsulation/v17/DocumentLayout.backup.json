@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Console\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|D:\\Console\\Encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|d:\\console\\encapsulation\\encapsulation\\bankaccountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\bankaccountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|d:\\console\\encapsulation\\encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|D:\\Console\\Encapsulation\\encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|D:\\Console\\Encapsulation\\encapsulation\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|d:\\console\\encapsulation\\encapsulation\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E1E0C-CD5F-4671-B05A-5B84874DE1C2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:33:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountClass.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\BankAccountClass.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\BankAccountClass.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\BankAccountClass.cs",
+              "RelativeToolTip": "Encapsulation\\BankAccountClass.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T20:05:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Product.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeToolTip": "Encapsulation\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T19:55:36.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\TemperatureConverter.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\TemperatureConverter.cs",
+              "RelativeToolTip": "Encapsulation\\TemperatureConverter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T16:13:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\Student.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Student.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\Student.cs",
+              "RelativeToolTip": "Encapsulation\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T15:51:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Console\\Encapsulation\\Encapsulation\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Rectangle.cs",
+              "ToolTip": "D:\\Console\\Encapsulation\\Encapsulation\\Rectangle.cs",
+              "RelativeToolTip": "Encapsulation\\Rectangle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:35:01.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
