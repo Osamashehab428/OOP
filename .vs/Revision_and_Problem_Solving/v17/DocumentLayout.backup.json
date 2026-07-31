@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Console\\Revision_and_Problem_Solving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|D:\\Console\\Revision_and_Problem_Solving\\revision_and_problem_solving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|solutionrelative:revision_and_problem_solving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|d:\\console\\revision_and_problem_solving\\revision_and_problem_solving\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|solutionrelative:revision_and_problem_solving\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|d:\\console\\revision_and_problem_solving\\revision_and_problem_solving\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BDE6A9-380E-453E-A441-B6CE1FB45721}|Revision_and_Problem_Solving\\Revision_and_Problem_Solving.csproj|solutionrelative:revision_and_problem_solving\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Cinema.cs",
+              "RelativeDocumentMoniker": "Revision_and_Problem_Solving\\Cinema.cs",
+              "ToolTip": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Cinema.cs",
+              "RelativeToolTip": "Revision_and_Problem_Solving\\Cinema.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T08:19:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Movie.cs",
+              "RelativeDocumentMoniker": "Revision_and_Problem_Solving\\Movie.cs",
+              "ToolTip": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Movie.cs",
+              "RelativeToolTip": "Revision_and_Problem_Solving\\Movie.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T07:48:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Program.cs",
+              "RelativeDocumentMoniker": "Revision_and_Problem_Solving\\Program.cs",
+              "ToolTip": "D:\\Console\\Revision_and_Problem_Solving\\Revision_and_Problem_Solving\\Program.cs",
+              "RelativeToolTip": "Revision_and_Problem_Solving\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T03:06:05.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
